@@ -13,7 +13,7 @@ services:
     expose:
       - "6379"
   app:
-    image: message-app:0.16 # New version taking into account REDIS_HOST
+    image: javalisson/message-app:0.2 # New version taking into account REDIS_HOST
     ports:
       - "8000:80"
     links:
