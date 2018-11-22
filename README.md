@@ -29,7 +29,7 @@ After you used alternative 1 or 2, your services should be up and running. You c
 docker-compose logs app
 ```
 
-If everything is OK you should be able to access the web interface on your browser on `localhost:8000`. I a next version I'll explain how to create and read messages using cURL.
+If everything is OK you should be able to access the web interface on your browser on `localhost:8000`. In a next version I'll explain how to create and read messages using cURL.
 
 # message-app
 
